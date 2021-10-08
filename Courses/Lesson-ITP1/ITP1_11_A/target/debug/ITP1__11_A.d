@@ -1,0 +1,1 @@
+C:\Users\pictu\Documents\Study\Rust\AIZU_ONLINE_JUDGE\Courses\Lesson-ITP1\ITP1_11_A\target\debug\ITP1__11_A.exe: C:\Users\pictu\Documents\Study\Rust\AIZU_ONLINE_JUDGE\Courses\Lesson-ITP1\ITP1_11_A\src\main.rs
