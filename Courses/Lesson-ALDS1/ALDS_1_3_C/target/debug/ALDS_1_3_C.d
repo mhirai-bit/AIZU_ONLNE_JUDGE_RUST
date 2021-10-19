@@ -1,0 +1,1 @@
+C:\Users\pictu\Documents\Study\Rust\AIZU_ONLINE_JUDGE\Courses\Lesson-ALDS1\ALDS_1_3_C\target\debug\ALDS_1_3_C.exe: C:\Users\pictu\Documents\Study\Rust\AIZU_ONLINE_JUDGE\Courses\Lesson-ALDS1\ALDS_1_3_C\src\main.rs
